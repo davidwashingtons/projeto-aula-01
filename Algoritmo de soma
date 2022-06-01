@@ -1,0 +1,12 @@
+algoritmo "soma"
+//função : Faça um algoritmo que receba dois numeros e exiba o resultado da sua soma
+var
+   numeroX, numeroY : inteiro
+
+inicio
+   escreva("numero X ?")
+   leia(numeroX)
+   escreva("numero Y ?")
+   leia(numeroY)
+   escreva("Soma X + Y = ", numeroX + numeroY)
+fimalgoritmo
